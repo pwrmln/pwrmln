@@ -3,7 +3,7 @@
 i code sometimes, but when i do, it's never on github. so i am gonna try and use my github account more, because yeahhhhhhhhhhhhhhhhhhhhhhhh
 
 
-- 🔭 I’m currently working on IdentBot
+- 🔭 I’m currently working on [IdentBot](https://vvd.wtf/identbot)
 - 👯 I’m looking to collaborate on nothing, I have no friends
 - 🤔 I’m looking for help with nothing, I have no friends
 - 💬 Ask me about the BBC (British Broadcasting Corporation)
