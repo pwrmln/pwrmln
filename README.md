@@ -1,2 +1,2 @@
-### i'm not working on anything at the moment,
-### but I plan to resume development of IdentBot.
+# ‼️ i've moved my info page! ‼️
+visit [this website](https://vvd.wtf) and you should get everything you need.
