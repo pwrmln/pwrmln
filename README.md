@@ -1,2 +1,1 @@
-# ‼️ i've moved my info page! ‼️
-visit [this website](https://vvd.wtf) and you should get everything you need.
+[![Melon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwrmln)](https://github.com/anuraghazra/github-readme-stats)
